@@ -1,0 +1,6 @@
+@Catalog.Web_HostAddress = http://localhost:5055
+
+GET {{Catalog.Web_HostAddress}}/
+Accept: application/json
+
+###
