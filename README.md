@@ -1,1 +1,1 @@
-# ddd-catalog
+# ddd-catalog exe
